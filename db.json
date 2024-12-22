@@ -1,5 +1,11 @@
 {
-  "users":[
-
-    ]
-} 
+  "users": [
+    {
+      "id": 1,
+      "name": "Artem",
+      "surname": "Chornousenko",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLUQbx3aZ8cBumuQSnc6HVUoY4nXA2hBfsw&s",
+      "balance": 5000
+    }
+  ]
+}
